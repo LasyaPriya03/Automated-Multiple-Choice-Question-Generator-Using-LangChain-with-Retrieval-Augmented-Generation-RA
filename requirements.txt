@@ -5,4 +5,4 @@ langchain_core
 langchain_community
 python-dotenv
 pydantic
-PyMuPDf
+PyPDF
