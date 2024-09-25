@@ -25,3 +25,8 @@ This project is a web application built using **Streamlit** that generates multi
    ```bash
    git clone https://github.com/yourusername/mcq-generator.git
    cd mcq-generator
+
+2. **Set up a virtual environment**:
+''' python3 -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+
