@@ -101,5 +101,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 For any issues or contributions, feel free to open an issue on the repository or reach out at:
 
-- **Email**: kotturilasya0306@example.com
+- **Email**: kotturilasya0306@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/lasya-priya03/
