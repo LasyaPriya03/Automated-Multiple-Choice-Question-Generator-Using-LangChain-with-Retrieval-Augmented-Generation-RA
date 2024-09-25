@@ -23,7 +23,7 @@ This project is a web application built using **Streamlit** that generates multi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/mcq-generator.git
+   git clone https://github.com/LasyaPriya03/Automated-Multiple-Choice-Question-Generator-Using-LangChain-with-Retrieval-Augmented-Generation-RA.git
    cd mcq-generator
 
 ## Set up a virtual environment:
